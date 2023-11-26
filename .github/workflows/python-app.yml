@@ -7,8 +7,8 @@ on:
   push:
     branches:
     - hide_info
-  pull_request:
-    branches: [ "main" ]
+      
+
 
 permissions:
   contents: read
